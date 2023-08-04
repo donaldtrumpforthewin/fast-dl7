@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "Panel textures/BMRFDS"
+"$surfaceprop" "glass"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "15"
+}
+}
+} 
