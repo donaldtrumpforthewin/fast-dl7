@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Nature/whitemosspebbles/diff"
+	"$bumpmap" "Nature/whitemosspebbles/nor"
+	"$surfaceprop" "Concrete"
+}

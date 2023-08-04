@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Ornaments/Worldmap/diff"
+	"$bumpmap" "Ornaments/Worldmap/nor"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "Metal"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "0"
+	"$translucent" "1"
+}

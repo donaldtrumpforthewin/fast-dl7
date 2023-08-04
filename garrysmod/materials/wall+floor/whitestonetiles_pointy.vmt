@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Wall+Floor/Whitestonetiles_pointy"
+	"$bumpmap" "Wall+Floor/Whitestonetiles_pointy_nor"
+	"$surfaceprop" "Concrete"
+}

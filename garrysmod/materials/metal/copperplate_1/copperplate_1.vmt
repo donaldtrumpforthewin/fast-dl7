@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/Copperplate_1/diff"
+	"$bumpmap" "Metal/Copperplate_1/nor"
+	"$surfaceprop" "Metal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "Metal"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "0"
+}

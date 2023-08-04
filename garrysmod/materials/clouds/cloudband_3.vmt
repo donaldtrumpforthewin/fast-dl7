@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Clouds/Cloudband_3"
+	"$translucent" 1
+	"$alpha"	.3
+	"$color" "{ 255 248 206 }"
+
+		"Proxies"
+		{
+			"TextureScroll"
+
+			{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "0.007
+			"texturescrollangle" "0"
+			}
+		}
+}

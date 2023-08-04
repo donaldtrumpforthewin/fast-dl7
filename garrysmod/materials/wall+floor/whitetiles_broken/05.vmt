@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Wall+Floor/Whitetiles_broken/5_D"
+	"$bumpmap" 	"Wall+Floor/Whitetiles_broken/5_N"
+	"$surfaceprop" "Concrete"
+	"$translucent" 1
+	"$color"	"[.65 .65 .65]"
+}
+

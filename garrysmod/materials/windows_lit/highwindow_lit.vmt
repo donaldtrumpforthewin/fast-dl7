@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "windows_lit/highwindow_lit"
+	"$surfaceprop" "Glass"
+}

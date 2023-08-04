@@ -1,0 +1,22 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "nature/dirtfloor006a"
+	"$basetexture" "Nature/whitemosspebbles/diff"
+	"$bumpmap2" ""
+	"$bumpmap" "Nature/whitemosspebbles/nor"
+
+	"$surfaceprop2" "Grass"
+	"$surfaceprop" "Concrete"
+
+
+	"$blendmodulatetexture" "Nature/whitemosspebbles/Blendmod"
+	"$blendmasktransform" "center 0.5 0.5 scale 1 1 rotate 0 translate 0 0"
+
+
+	
+	//"$detail" "overlays/macro01a"
+	//"$detailscale" .1
+	//"%detailtype" "coastline_redgrass03"
+	//"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	//"%keywords" "wasteland"
+}

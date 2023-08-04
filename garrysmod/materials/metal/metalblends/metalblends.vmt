@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/Metalblends/diff"
+	"$bumpmap" "Metal/Metalblends/nor"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+}

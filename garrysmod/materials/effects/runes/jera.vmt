@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Effects/Runes/Jera_base"
+	"$bumpmap" "Effects/Runes/Jera_base_nor"
+	"$surfaceprop" "Rock"
+	"$selfillum" 1
+}
