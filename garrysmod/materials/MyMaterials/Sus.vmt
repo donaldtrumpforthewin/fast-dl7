@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "mymaterials/Sus"
-	"$bumpmap" "mymaterials/Sus_normal"
-	"$nocull" "1"
-}
