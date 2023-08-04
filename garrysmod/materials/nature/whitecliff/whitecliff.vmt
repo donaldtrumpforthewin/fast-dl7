@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/Whitecliff/whitecliff"
-	"$bumpmap" "Nature/Whitecliff/whitecliff_normal"
-	"$surfaceprop" "Concrete"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "windows_lit/w2lit"
-	"$bumpmap" "Wall+Floor/Industrial/Housefront_2_nor"
-	"$surfaceprop" "concrete"
-	"$selfillum" 1
-}

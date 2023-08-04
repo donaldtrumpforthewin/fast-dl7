@@ -1,7 +1,0 @@
-sky
-{
-	$basetexture "skybox/ClearBK"
-	$hdrcompressedtexture "skybox/ClearBK"
-	$nofog 1
-	$ignorez 1
-}

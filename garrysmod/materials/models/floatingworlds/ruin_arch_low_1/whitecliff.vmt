@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "nature/whitecliff/whitecliff"
-	"$bumpmap" "nature/whitecliff/whitecliff_normal"
-	"$surfaceprop" "concrete"
-
-}

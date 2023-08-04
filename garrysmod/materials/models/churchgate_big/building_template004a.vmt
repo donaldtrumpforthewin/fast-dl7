@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "building_template/building_template004a"
-	"$bumpmap" "building_template/building_template004a_nor"
-	"$surfaceprop"  "concrete"
-
-}

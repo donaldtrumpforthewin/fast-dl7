@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "cbtrees/bush2"
-	"$alphatest" 1
-	"$nocull" 1
-}
-

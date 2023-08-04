@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "Effects/Runecircle_red"
-	"$surfaceprop" "Dirt"
-	"$additive" 1
-	"$translucent" 1
-	"$nocull" "1"
-}

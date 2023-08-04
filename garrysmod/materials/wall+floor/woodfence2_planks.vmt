@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wall+Floor/Woodfence2_planks"
-	"$bumpmap" "Wall+Floor/Woodfence2_planks_nor"
-	"$translucent" 1
-	"%compilepassbullets" 1
-}
