@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "MyMaterials/Sus"
-	"$surfaceprop" "AlienFlesh"
-	"$bumpmap" "MyMaterials/Sus_normal"
+	"$basetexture" "mymaterials/Sus"
+	"$bumpmap" "mymaterials/Sus_normal"
+	"$nocull" "1"
 }
