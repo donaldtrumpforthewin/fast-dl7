@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\ep2_helicopter\glasswindowbreak070a-2"
+	"$translucent" "1"
+}

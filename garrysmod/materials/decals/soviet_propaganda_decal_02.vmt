@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals\soviet_propaganda_decal_02"
+	"$decal" 1
+	"$decalscale" 0.75
+	"$translucent" 0
+}
